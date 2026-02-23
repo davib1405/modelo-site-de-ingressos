@@ -1,6 +1,6 @@
 # OnStage
 Repositório para o trabalho de APS de desenvolvimento de protótipo de sistema de compra e venda de ingressos online. 
-Link do Mockup no figma: https://www.figma.com/design/DZUekJk37pWE82f3bQpAK1/Untitled?node-id=0-1&t=c35PKeH0rzfDW9Y4-1
+
 
 Nome da página/marca: <b>OnStage</b><Br><Br>
 1️⃣ Página Inicial – Tela Principal do Sistema<Br>
